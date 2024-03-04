@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mornhouse Test Task</string>
+    <string name="fact_loading_failed_error_message">Fact loading is failed =(</string>
+    <string name="enter_number_warning">Enter a number!</string>
+    <string name="number_text_field_label">Number</string>
+    <string name="get_fact_button_text">Get fact</string>
+    <string name="get_random_fact_button_text">Get fact about random number</string>
+    <string name="main_screen_title">Main</string>
+    <string name="details_screen_title">Details</string>
+</resources>
